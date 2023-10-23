@@ -1,0 +1,22 @@
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final_Project.frmPacman.resources
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\samue\Desktop\Computer Science\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final_Project.frmPacman.resources
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\s.yazie\Desktop\computer science\Final Project\Final Project\obj\Debug\Final Project.pdb
